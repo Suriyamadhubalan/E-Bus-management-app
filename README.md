@@ -27,7 +27,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/ebus-management.git
+   https://github.com/Suriyamadhubalan/E-Bus-management-app.git
    cd ebus-management
    ```
 2. **Install Dependencies:**
